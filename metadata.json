@@ -1,0 +1,6 @@
+{
+  "name": "V2I Smart Traffic Management for SDV",
+  "description": "Futuristic Vehicle-to-Infrastructure (V2I) intelligent traffic management cockpit dashboard for Software-Defined Vehicles (SDV) featuring real-time telemetry, 3D driving HUD, RSU communication, dynamic signal timing, and FASTag tolling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
